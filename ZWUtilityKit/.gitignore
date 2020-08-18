@@ -1,0 +1,10 @@
+**/.DS_Store
+**/Automation/**/iPA*/*
+**/Pods/**/*
+**/*.xcodeproj/*.xcworkspace
+**/*.xcodeproj/xcuserdata
+**/*.xcworkspace/xcuserdata
+**/*.xcworkspace/xcshareddata
+**/*.lock
+**/bin/*
+**/*.xcworkspace
